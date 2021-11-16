@@ -81,6 +81,17 @@
   justify-content: space-between;
 }
 
+/*define positions*/
+.absolute {
+  position: absolute;
+}
+.fixed {
+  position: fixed;
+}
+.relative {
+  position: relative;
+}
+
 /*color markers*/
 .markRed {
   background-color: red;
