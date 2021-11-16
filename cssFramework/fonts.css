@@ -1,0 +1,95 @@
+/*Poppins*/
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@100;300;400;500;700&display=swap");
+.poppinsThin {
+  font-family: "Poppins", sans-serif;
+  font-weight: 100;
+}
+.poppinsLight {
+  font-family: "Poppins", sans-serif;
+  font-weight: 300;
+}
+.poppinsRegular {
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+}
+.poppinsMedium {
+  font-family: "Poppins", sans-serif;
+  font-weight: 500;
+}
+.poppinsBold {
+  font-family: "Poppins", sans-serif;
+  font-weight: 700;
+}
+
+/*Montserrat*/
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@100;300;400;500;700&display=swap");
+
+.montserratThin {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 100;
+}
+.montserratLight {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 300;
+}
+.montserratRegular {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 400;
+}
+.montserratMedium {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 500;
+}
+.montserratBold {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 700;
+}
+
+/*Roboto*/
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700&display=swap");
+.robotoThin {
+  font-family: "Roboto", sans-serif;
+  font-weight: 100;
+}
+.robotoLight {
+  font-family: "Roboto", sans-serif;
+  font-weight: 300;
+}
+.robotoRegular {
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+}
+.robotoMedium {
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+}
+.robotoBold {
+  font-family: "Roboto", sans-serif;
+  font-weight: 700;
+}
+
+/*font size*/
+.extraSmallFont {
+  font-size: xx-small;
+}
+.verySmallFont {
+  font-size: x-small;
+}
+.smallFont {
+  font-size: small;
+}
+.mediumFont {
+  font-size: medium;
+}
+.largeFont {
+  font-size: large;
+}
+.veryLargeFont {
+  font-size: x-large;
+}
+.extraLargeFont {
+  font-size: xx-large;
+}
+.ridiculousLargeFont {
+  font-size: xxx-large;
+}

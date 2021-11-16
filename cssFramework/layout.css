@@ -1,0 +1,93 @@
+/*define container width*/
+.w100 {
+  width: 100%;
+}
+.w75 {
+  width: 75%;
+}
+.w50 {
+  width: 50%;
+}
+.w25 {
+  width: 25%;
+}
+.w10 {
+  width: 10%;
+}
+.w5 {
+  width: 5%;
+}
+/*define container height*/
+.h100 {
+  height: 100%;
+}
+.h75 {
+  height: 75%;
+}
+.h50 {
+  height: 50%;
+}
+.h25 {
+  height: 25%;
+}
+.h10 {
+  height: 10%;
+}
+.h5 {
+  height: 5%;
+}
+
+/*define flex and orientation*/
+.dFlex {
+  display: flex;
+}
+.flexRow {
+  flex-direction: row;
+}
+.flexColumn {
+  flex-direction: column;
+}
+
+/*deifnes content position on x axis*/
+.xStart {
+  justify-content: flex-start;
+}
+.xCenter {
+  justify-content: center;
+}
+.xEnd {
+  justify-content: flex-end;
+}
+
+/*define content position on y axis*/
+.yStart {
+  align-items: flex-start;
+}
+.yCenter {
+  align-items: center;
+}
+.yEnd {
+  align-items: flex-end;
+}
+
+/*define space between flex containers*/
+.spaceEven {
+  justify-content: space-evenly;
+}
+.spaceAround {
+  justify-content: space-around;
+}
+.spaceBetween {
+  justify-content: space-between;
+}
+
+/*color markers*/
+.markRed {
+  background-color: red;
+}
+.markBlue {
+  background-color: blue;
+}
+.markPurple {
+  background-color: purple;
+}

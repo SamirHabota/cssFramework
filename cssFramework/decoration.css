@@ -1,0 +1,21 @@
+.pointer {
+  cursor: pointer;
+}
+.noTextDecoration {
+  text-decoration: none;
+}
+.noOutline {
+  outline: none;
+}
+.noBorder {
+  border: none;
+}
+.smallBoxShadow {
+  box-shadow: 1px 1px 5px 0px rgb(216, 216, 216);
+}
+.mediumBoxShadow {
+  box-shadow: 5px 5px 5px 0px rgb(216, 216, 216);
+}
+.largeBoxShadow {
+  box-shadow: 10px 10px 5px 0px rgb(216, 216, 216);
+}
