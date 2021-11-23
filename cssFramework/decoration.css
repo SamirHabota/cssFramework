@@ -1,6 +1,24 @@
-.pointer {
+/*cursor settings*/
+.crs-default {
+  cursor: default;
+}
+.crs-pointer {
   cursor: pointer;
 }
+.crs-text {
+  cursor: text;
+}
+.crs-wait {
+  cursor: wait;
+}
+.crs-zoomIn {
+  cursor: zoom-in;
+}
+.crs-zoomOut {
+  cursor: zoom-out;
+}
+
+/*decoration removal*/
 .noTextDecoration {
   text-decoration: none;
 }
@@ -10,6 +28,8 @@
 .noBorder {
   border: none;
 }
+
+/*box shadows*/
 .smallBoxShadow {
   box-shadow: 1px 1px 5px 0px rgb(216, 216, 216);
 }
@@ -18,4 +38,29 @@
 }
 .largeBoxShadow {
   box-shadow: 10px 10px 5px 0px rgb(216, 216, 216);
+}
+
+/*opacity settings*/
+.fullOpacity {
+  opacity: 1;
+}
+
+.strongOpacity {
+  opacity: 0.8;
+}
+
+.mediumOpacity {
+  opacity: 0.5;
+}
+
+.lightOpacity {
+  opacity: 0.3;
+}
+
+.lowOpacity {
+  opacity: 0.1;
+}
+
+.noOpacity {
+  opacity: 0;
 }

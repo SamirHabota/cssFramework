@@ -92,6 +92,11 @@
   position: relative;
 }
 
+/*completely hide a container*/
+.dNone {
+  display: none !important;
+}
+
 /*color markers*/
 .markRed {
   background-color: red;

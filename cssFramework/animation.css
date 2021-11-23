@@ -1,12 +1,13 @@
+/*pop in or out animations*/
 .grow {
   transition: 0.3s;
 }
 .grow:hover {
-  transform: scale(1.03);
+  transform: scale(1.01);
 }
 .shrink {
   transition: 0.3s;
 }
 .shrink:hover {
-  transform: scale(0.95);
+  transform: scale(0.99);
 }
