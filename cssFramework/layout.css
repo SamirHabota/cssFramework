@@ -48,7 +48,7 @@
   flex-direction: column;
 }
 
-/*deifnes content position on x axis*/
+/*deifne content position on x axis*/
 .xStart {
   justify-content: flex-start;
 }
